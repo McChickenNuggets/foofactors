@@ -20,3 +20,5 @@ Suggests:
 Config/testthat/edition: 3
 Imports: 
     forcats
+URL: https://github.com/McChickenNuggets/foofactors
+BugReports: https://github.com/McChickenNuggets/foofactors/issues
